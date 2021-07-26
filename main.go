@@ -1,11 +1,11 @@
-package itswizard_test
+package main
 
 import (
-	"fmt"
 	"./packages/pack1"
+	"fmt"
 )
 
-func main () {
-	fmt.Println("start")
+func main() {
 	pack1.Print()
+	fmt.Println("ll")
 }
