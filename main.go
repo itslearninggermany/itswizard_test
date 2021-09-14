@@ -1,11 +1,9 @@
-package main
+package test
 
 import (
-	"./packages/pack1"
 	"fmt"
 )
 
-func main() {
-	pack1.Print()
-	fmt.Println("ll")
+func Test() {
+	fmt.Println("Dies ist ein Test")
 }
