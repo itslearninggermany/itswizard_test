@@ -5,5 +5,5 @@ import (
 )
 
 func Test() {
-	fmt.Println("Dies ist ein Test - Änderung wo anders dem System")
+	fmt.Println("Dies ist ein Test - Änderung wo anders")
 }
